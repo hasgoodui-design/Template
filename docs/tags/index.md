@@ -1,0 +1,8 @@
+---
+ignores:
+  - tags
+---
+
+# Tags
+
+[TAGS]
